@@ -9,3 +9,8 @@ this repo relates to this Tutorial : https://youtu.be/Qz51UelzByA
 * [cookpw.py](https://github.com/SifoHamlaoui/WD-Decrypte/blob/master/cookpw.py) : generate's the .BIN file ( 40bytes ) containes the decryption password 
 
  * [drive.sh](https://github.com/SifoHamlaoui/WD-Decrypte/blob/master/drive.sh) : Automation script for the drive encryption
+
+## Usage Example:
+```
+./drive.sh /dev/sda
+```
